@@ -1,0 +1,10 @@
+.contactPage-container {
+  height: 93vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  background-image: url("../Assets/cyberpunk--wallpaper5.jpg");
+  background-size: cover;
+  color: yellow;
+}
